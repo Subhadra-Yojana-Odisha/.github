@@ -8,7 +8,7 @@ This guide explains what the application status means, how to check it, and what
 
 ## What Is Subhadra Yojana Application Status?
 
-The application status shows the current stage of your [Subhadra Yojana]([url](https://subhadra-yojanain.com/)) application.
+The application status shows the current stage of your [Subhadra Yojana](https://subhadra-yojanain.com/) application.
 
 After submitting an application, the details may go through different verification and approval stages. The status can help you understand whether your application is being processed, approved, rejected, or requires further attention.
 
@@ -25,7 +25,7 @@ You can follow these general steps:
 5. Your current application status should be displayed on the screen.
 6. Check the information carefully and keep a screenshot or acknowledgement details for future reference.
 
-The official Subhadra framework specifically provides for [application-status]([url](https://subhadra-yojanain.com/subhadra-yojana-application-status/)) information through the portal.
+The official Subhadra framework specifically provides for [application-status](https://subhadra-yojanain.com/subhadra-yojana-application-status/) information through the portal.
 
 > **Important:** The exact fields and menu names on the portal can change when the government updates the system. Use the current options displayed on the official website.
 
@@ -39,7 +39,7 @@ This generally means that your application has been successfully submitted and i
 
 ### Under Verification
 
-Your application details are being checked. This may include [verification]([url](https://subhadra-yojanain.com/madhubabu-pension-yojana/)) of eligibility and information submitted with the application.
+Your application details are being checked. This may include [verification](https://subhadra-yojanain.com/madhubabu-pension-yojana/) of eligibility and information submitted with the application.
 
 ### Approved
 
@@ -73,7 +73,7 @@ Application status and payment status are separate things.
 
 If your application has been approved but you have not received an expected instalment, check the payment-related information available through the official system. You should also verify that your bank account and other beneficiary details are correct.
 
-The government has stated that the [Subhadra system]([url](https://subhadra-yojanain.com/)) is intended to provide information about instalments credited to beneficiary accounts as well as application status.
+The government has stated that the [Subhadra system](https://subhadra-yojanain.com/) is intended to provide information about instalments credited to beneficiary accounts as well as application status.
 
 For the latest fifth-instalment update, the Odisha Chief Minister's Office reported that the fifth instalment was transferred on **August 28, 2026**, to more than **1.03 crore women beneficiaries**.
 
@@ -95,7 +95,7 @@ When checking your application or contacting support, keep your relevant informa
 
 - Check your status through the official government system.
 - Keep your application or acknowledgement number safe.
-- A pending application is not [automatically]([url](https://github.com/)) a rejection.
+- A pending application is not [automatically](https://github.com/) a rejection.
 - Application approval does not necessarily mean that a payment has already been credited.
 - Check your bank account separately when a payment is expected.
 - Use official grievance or helpline channels if you cannot resolve an issue.
